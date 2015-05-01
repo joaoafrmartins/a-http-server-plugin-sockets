@@ -1,0 +1,27 @@
+{
+  "name": "a-http-server-plugin-sockets",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "A Http Server Plugin Sockets",
+  "keywords": [
+    "a",
+    "http",
+    "server",
+    "plugin",
+    "sockets"
+  ],
+  "dependencies": {
+    "socket.io": "",
+    "session.socket.io": "",
+    "lodash.merge": ""
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/joaoafrmartins/a-http-server-plugin-sockets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-http-server-plugin-sockets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-http-server-plugin-sockets/issues"
+  }
+}
