@@ -23,5 +23,7 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/a-http-server-plugin-sockets/issues"
-  }
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
 }
